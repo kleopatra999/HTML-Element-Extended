@@ -1,4 +1,0 @@
-HTML-Element-Extended
-=====================
-
-HTML-Element-Extended is a package of several enhanced HTML::Element classes, most of which arose during the effort to implement an HTML::Element based table class.
