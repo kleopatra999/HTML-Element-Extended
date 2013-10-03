@@ -2,6 +2,7 @@ README
 Makefile.PL
 test.pl
 Changes
+LICENSE
 MANIFEST
 lib/HTML/ElementSuper.pm
 lib/HTML/ElementGlob.pm
